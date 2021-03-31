@@ -1,6 +1,5 @@
-# 👋
-# My name is Emma
-### I'm junior Frontent-developer 
+# 👋 Hi, my name is Emma
+
 ### 📫 E-mail: kerimkhanova93@yandex.ru
 ### :earth_africa: Telegram: @emmishik
 
