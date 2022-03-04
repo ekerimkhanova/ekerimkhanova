@@ -1,4 +1,4 @@
-# Hi, my name is Emma! I'm junior Frontend-developer. 
+# Hi, my name is Emma! I'm Frontend-developer. 
 ### 📫 E-mail: kerimkhanova93@yandex.ru
 ### :earth_africa: Telegram: @emmishik
 
